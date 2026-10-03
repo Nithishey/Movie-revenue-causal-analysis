@@ -32,7 +32,7 @@ Adjusting for popularity and cast size (consequences of budget) lowers the budge
 **Power BI dashboard** (`powerbi/`): three pages (Overview, Drivers, Causal Results) built on a three-table model, with a budget what-if slider linked to the causal estimate. Open `movie_revenue_driver_dashboard.pbix` in Power BI Desktop, or view the PDF export.
 
 ![Power BI overview](movie-revenue-causal-analysis/Screenshots/powerbi_overview.png)
-![Power BI causal results](docs/powerbi_causal.png)
+![Power BI causal results](movie-revenue-causal-analysis/Screenshots/powerbi_causal.png)
 
 Presentation: `docs/Movie_Revenue_Driver_Analysis.pptx`
 

@@ -26,13 +26,13 @@ Adjusting for popularity and cast size (consequences of budget) lowers the budge
 ## Dashboards
 **Streamlit app** (`streamlit_app/app.py`): Overview, Explorer, Causal results and a Budget what-if page, with sidebar filters.
 
-![Streamlit overview](docs/streamlit_overview.png)
-![Streamlit causal results](docs/streamlit_causal.png)
+![Streamlit overview](Screenshots/streamlit_overview.png)
+![Streamlit causal results](Screenshots/streamlit_causal.png)
 
 **Power BI dashboard** (`powerbi/`): three pages (Overview, Drivers, Causal Results) built on a three-table model, with a budget what-if slider linked to the causal estimate. Open `movie_revenue_driver_dashboard.pbix` in Power BI Desktop, or view the PDF export.
 
-![Power BI overview](docs/powerbi_overview.png)
-![Power BI causal results](docs/powerbi_causal.png)
+![Power BI overview](Screenshots/powerbi_overview.png)
+![Power BI causal results](Screenshots/powerbi_causal.png)
 
 Presentation: `docs/Movie_Revenue_Driver_Analysis.pptx`
 
